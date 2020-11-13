@@ -1,0 +1,12 @@
+{
+  "custId" : "12241",
+  "firstName" : "Swat",
+  "lastName" : "Cat",
+  "txnId" : "bdb37f406ed660fe0452d5600b6b4df0",
+  "txnTime" : "2019-04-17 22:28:12",
+  "merchant" : "grocery_pos",
+  "longi" : "45",
+  "category" : "1325597827",
+  "txnAmnt" : "545",
+  "lat" : "221"
+}
